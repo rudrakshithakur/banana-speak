@@ -24,3 +24,4 @@ function clickEventHandler() {
     .catch(errorHandler)
 }
 btnTranslate.addEventListener("click",  clickEventHandler);
+
