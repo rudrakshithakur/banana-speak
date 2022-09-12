@@ -127,7 +127,8 @@ textarea {
     margin-right: 2vw;
     margin-top: 4rem;
     align-content: center;
-    padding: 2rem;
+
+    padding: 2% 2% 5% 2%;
     display: inline;
 }
 
@@ -138,8 +139,10 @@ textarea {
     margin-right:2vw;
     margin-top: 4rem;
     align-content: center;
-    padding: 2rem;
+  
+    padding: 2% 2% 5% 2%;
     display: inline;
+    
 }
 
 .card-image:hover {
