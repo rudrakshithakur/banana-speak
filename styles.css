@@ -205,3 +205,81 @@ margin: 1rem;
 .textm{
     margin-left: 1rem;
 }
+
+/* -------------------------------------------- */
+
+body{
+    
+  
+    background-size: cover;
+    background-image: fixed;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  /* justify-content: center center center center; */
+  flex-wrap: wrap;
+
+}
+
+.card2{
+    background: white;
+   
+    width: 270px;
+    margin: 15px;
+    border-radius: 15px;
+ 
+}
+
+.card-image2{
+   
+    height: 170px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+
+}
+
+.mini-1{
+
+    background-image:url(/media/minion2.jpg);
+}
+
+.groot-1{
+    background-image: url(/media/groot2.jpg);
+}
+
+.card2 p {
+    padding: 10px;
+}
+.card2 h2 {
+    padding: 10px;
+}
+.card2 a{
+    background-color: rgb(29, 27, 17);
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px ;
+    text-decoration: none;
+    
+}
+
+.card2:hover {
+    background-color: rgb(84, 121, 16);
+    color: white;
+    transform: scale(1.03);
+    transition: all 1s ease;
+   
+}
+.intro2{
+  text-align: center;
+  display: block; 
+    background-color: rgba(5, 66, 5, 0.568);
+    color: white;
+}
+
