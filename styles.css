@@ -259,7 +259,7 @@ body{
     padding: 10px;
 }
 .card2 a{
-    background-color: rgb(29, 27, 17);
+    background-color: rgb(202, 171, 15);
     color: white;
     padding: 15px 20px;
     display: block;
@@ -279,7 +279,7 @@ body{
 .intro2{
   text-align: center;
   display: block; 
-    background-color: rgba(5, 66, 5, 0.568);
+    background-color: rgba(43, 37, 6, 0.568);
     color: white;
 }
 
